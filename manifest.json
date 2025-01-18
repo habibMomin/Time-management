@@ -1,0 +1,16 @@
+{
+    "name": "Productivity Tracker",
+    "short_name": "Productivity",
+    "description": "Track your productivity with ease",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5f56e8",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
